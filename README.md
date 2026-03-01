@@ -1,9 +1,9 @@
 # Model Representation | Linear Regression
 
-This repository contains the implementation of a simple Linear Regression model representation, as part of the **Machine Learning Specialization** by DeepLearning.AI and Stanford University.
+This repository contains the implementation of a simple linear regression model representation, as part of the **Machine Learning Specialization** offered by DeepLearning.AI and Stanford University.
 
 ## 📌 Project Overview
-In this lab, we explore the fundamentals of supervised learning by implementing the model function $f_{w,b}(x) = wx + b$ for linear regression with one variable. 
+We explore the fundamentals of supervised learning by implementing the model function $f_{w,b}(x) = wx + b$ for linear regression with one variable. 
 
 The goal is to understand how the parameters $w$ (weight) and $b$ (bias) define a straight line that fits a set of data points, allowing us to make predictions for new data.
 
